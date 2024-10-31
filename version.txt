@@ -1,0 +1,7 @@
+Privacy Policy Version 2.01
+
+1- Implemented GDPR Compliance 
+2- Added consent notice
+3- Policy Guru now audits your site for existing entry fields
+4- Policy Guru now audits your site cookies
+5- updated Privacy Policy

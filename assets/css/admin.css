@@ -1,0 +1,48 @@
+h2.privacy_policy_admin_header {
+    display: inline-block;
+}
+
+div.privacy_policy_branding {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+div.privacy_policy_branding img {
+    width: 130px;
+}
+
+.tab_how_to_use, .tab_version, .tab_about, .tab_audit, .tab_cookies {
+    width: 99%;
+    float: left;
+    padding: 10px 10px;
+    font-size: 16px;
+    background: #FFF;
+    border: none;
+    box-shadow: none;
+	line-height: 2;
+}
+
+.site_audit_container, table.audit_url_table {
+    float: left;
+    width: 100%;
+}
+
+form.tab_audit {
+    padding-left: 30px;
+    width: 98%;
+}
+
+.site_audit_container td, .tab_cookies td, .tab_cookies th {
+    border: #efebeb solid 1px;
+    min-width: 150px;
+    padding-left: 20px;
+    word-break: break-all;
+	text-align:left;
+}
+
+form.refresh_scrap {
+    background: #FFF;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}

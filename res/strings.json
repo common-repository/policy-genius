@@ -1,0 +1,74 @@
+{
+  "policies": {
+      "data_collection": {
+        "name": "Name",
+        "mailing_address": "Mailing Address",
+        "telephone_number": "Telephone Number",
+        "email_address": "Email Address",
+        "age": "Age",
+        "gender": "Gender",
+        "date": "Date of birth",
+        "credit_billing": "Credit card or billing information/credit history",
+        "health_status": "Health Status",
+        "marital_status": "Marital Status"
+      },
+      "information_use": {
+        "commercial_relations": "To establish and maintain responsible commercial relations with customers and to provide ongoing services",
+        "understand_customers": "To understand customer needs and preferences",
+        "market_enhancements": "To develop and enhance market services",
+        "meet_requirements": "To meet legal and regulatory requirements",
+        "evaluate_candidates": "To evaluate candidates and applicants who have submitted personal information to us for employment consideration purposes",
+        "respond_to_inquiry": "To respond to your inquiry when you contact us, request a download or request a demo",
+        "send_news_letter": "To send you our newsletter when you sign up for it, or you sign up to stay informed",
+        "register_for_events": "To register you for events and conferences",
+        "gather_feedback": "To gather your opinion and feedback through surveys",
+        "alert_new_products": "To advise you about new products and services that may be of interest to you (provided that you can choose not to receive any invitations or direct mail from us by indicating your preference as outlined below under Contact Us)",
+        "statistical_analysis": "Statistical analysis",
+        "email_newsletters": "Email newsletters",
+        "other": "Other uses as may be permitted or required by applicable law"
+      },
+      "information_transfer": {
+        "fulfilling_policy": "Processing and fulfilling the purposes outlined in the Policy",
+        "data_storage": "Providing data storage",
+        "data_processing": "Data processing",
+        "telephone_support": "Telephone Support",
+        "marketing": "Selling or sharing data with marketing companies"
+      }
+  },
+  "admin_checkbox_groups": {
+    "data_collection": {
+      "name": "Name",
+      "mailing_address": "Mailing Address",
+      "telephone_number": "Telephone Number",
+      "email_address": "Email Address",
+      "age": "Age",
+      "gender": "Gender",
+      "date": "Date of birth",
+      "credit_billing": "Credit card or billing info/credit history",
+      "health_status": "Health Status",
+      "marital_status": "Marital Status"
+    },
+    "information_use": {
+      "commercial_relations": "Commercial relations with customers",
+      "understand_customers": "Understand customer needs and preferences",
+      "market_enhancements": "Develop and enhance market services",
+      "meet_requirements": "Meet legal and regulatory requirements",
+      "evaluate_candidates": "Evaluate those who have submitted personal information",
+      "respond_to_inquiry": "Respond to inquiry upon contact",
+      "send_news_letter": "Newsletter subscriptions",
+      "register_for_events": "Registration for events and conferences",
+      "gather_feedback": "Gather opinions  and feedback through surveys",
+      "alert_new_products": "Alert about new products and services",
+      "statistical_analysis": "Statistical analysis",
+      "email_newsletters": "Email newsletters",
+      "other": "Other uses as may be permitted or required by applicable law"
+    },
+    "information_transfer": {
+      "fulfilling_policy": "Processing and fulfilling the purposes outlined in the policy",
+      "data_storage": "Providing data storage",
+      "data_processing": "Data processing",
+      "telephone_support": "Telephone Support",
+      "marketing": "Selling or sharing data with marketing companies"
+    }
+  }
+}

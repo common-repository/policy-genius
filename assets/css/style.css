@@ -1,0 +1,85 @@
+#privacy_policy ul {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+table.audit_url_table td {
+    border: #888888 solid 1px;
+    min-width: 150px;
+    padding-left: 20px;
+}
+
+.site_audit_container.options {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+
+.cookie-notifier{
+	position: fixed;
+	overflow: hidden;
+    box-sizing: border-box;
+    font-family: Helvetica,Calibri,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    z-index: 100000;
+    opacity: 0;
+    transition:  all 1s linear;
+    padding: 20px 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 59, 117);
+    display: none;
+}
+.bottom{
+	left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+.top{
+	left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.right{
+    right: 40px;
+    bottom: 40px;
+    width: 300px;
+}
+.show{
+	display: block;
+	opacity: 1;
+}
+.cn-agree-buttons{
+	float: right;
+}
+.right .cn-agree-buttons{
+	    margin-top: 20px;
+}
+	
+.cn-button{
+	padding: 10px 15px;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: .9em;
+    font-weight: 700;
+}
+.cn-no:hover{
+	color: #fff;
+	text-decoration: underline;
+	
+}
+.cn-no{
+	color: #fff;
+	
+}
+.cn-yes{
+	color: rgb(0, 0, 0);
+    background-color: rgb(241, 214, 0);
+    border-color: transparent;
+}
+.cn-yes:hover{
+	color: rgb(0, 0, 0);
+	background-color: rgb(255, 252, 38);
+}

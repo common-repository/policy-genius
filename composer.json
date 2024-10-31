@@ -1,0 +1,8 @@
+{
+  "autoload" : {
+    "psr-4" : {
+      "privacy_policy_genius\\": "includes/",
+      "smartcat\\": "lib/"
+    }
+  }
+}
